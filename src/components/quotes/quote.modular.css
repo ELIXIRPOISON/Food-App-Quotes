@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.quote-card{
+    width: 90%;
+    margin: 2rem auto;
+    padding: 2rem 4rem;
+    border: 0.5px solid rgb(189, 189, 189);
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px rgb(162, 162, 162);
+}
+.quote-card h1{
+    font-size: 2rem;
+    text-align: center;
+}
+.quote-card p{
+    color: gray;
+    text-align: center;
+    margin-top: 1rem;
+}
